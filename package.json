@@ -5,6 +5,10 @@
   "author": "manuthebyte",
   "publisher": "manuthebyte",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manuthebyte/vscode-change-icon-theme"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
