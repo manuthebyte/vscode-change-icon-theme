@@ -4,7 +4,7 @@ This extension allows you to dynamically change your icon theme, if your system 
 
 ## Setup
 
-Download the extension from https://link.com or build it yourself (see below).
+Download the extension from the [VSCode Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=manuthebyte.dynamic-icon-theme) or build it yourself (see below).
 
 When installing the extension, you should get an notification, which asks you to set your light and dark icon theme. If you don't get this notification, you can set the themes in the settings under `Settings > Extensions > Dynamic Icon Theme > Dark/Light Icon Theme`.
 
@@ -21,6 +21,10 @@ This extension contributes the following settings:
 
 Users appreciate release notes as you update your extension.
 
+### 1.0.1
+
+Change README
+
 ### 1.0.0
 
 Initial release
@@ -33,7 +37,7 @@ To build this project, you need to have [Node.js](https://nodejs.org/en/) instal
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 ## Support
 
